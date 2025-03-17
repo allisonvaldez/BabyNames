@@ -14,4 +14,4 @@ node_modules
 .sass-cache
 
 # Ignore Checkpoints
-https://github.com/allisonvaldez/BabyNames/tree/217f79cf02246e578fc7139e8529d4a73386bd09/.ipynb_checkpoints
+.ipynb_checkpoints
