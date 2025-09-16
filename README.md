@@ -20,13 +20,13 @@ Moreover, the project provided the oppertunity to gain experience in:
 * Data Visualization
 
 ### Technologies
+* Numpy
+* Seaborn
 * Plotly
 * Python
 * Matplotlib
 * Pandas
 * Jupyter Notebook 
-* Wordcloud
-* Choropleth
 
 ## Contact
 If there are any questions or concerns the author may be contacted to discuss analysis and methodology.
